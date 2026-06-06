@@ -19,7 +19,7 @@ O Docker foi adotado para garantir que a aplicação rode sem erros independente
 **Pré-requisito:** Instalar o [Docker Desktop](https://www.docker.com/products/docker-desktop/) e deixá-lo em execução.
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Juniorc027/Desafio-Tecnico-CEFOPE
 cd CursosPlatform
 docker compose up --build
 ```
