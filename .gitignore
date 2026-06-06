@@ -1,0 +1,13 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Node / Frontend
+app/node_modules/
+app/dist/
+
+# Logs
+*.log
